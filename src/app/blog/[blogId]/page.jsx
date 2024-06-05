@@ -1,4 +1,4 @@
-import data from "../../data.json"
+import data from "../../../app/data.json"
 
 
 export default function Blog({params}) {
